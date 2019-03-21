@@ -3,19 +3,6 @@
 [![Build Status](https://travis-ci.org/ramp-kits/solar_wind.svg?branch=master)](https://travis-ci.org/ramp-kits/solar_wind)
 
 
-### M2 MOSEF Project
-
-This RAMP setup is used for the Machine learning project at M2 MOSEF.
-
- - Project presentation date: February 15, 2018 9:00 - 12:00
-
-Work can be performed in groups of two. Final code solution should be uploaded the RAMP platform,
-
- - Submission URL: will be available on January 25 on this page.
-
-Project reports with detailed explanation of the approach taken should be sent to roman.yurchak@symerio.com.
-Please mention the names of students in your group and the username used on the RAMP platform for your
-submission.
 
 ### Introduction
 
